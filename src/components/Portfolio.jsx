@@ -3,7 +3,7 @@ import huddle from "../assets/portfolio/huddle.png";
 import atlantic from '../assets/portfolio/atlantic-city.png'
 import insure from '../assets/portfolio/insurevault.png'
 import pennyweb from '../assets/portfolio/pennyweb.png'
-import pennApp from '../assets/portfolio/pennApp.png'
+import pennApp from '../assets/portfolio/penwebApp.png'
 import trabaye from '../assets/portfolio/trabaye.png'
 
 const Portfolio = () => {

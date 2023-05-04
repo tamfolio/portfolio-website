@@ -22,19 +22,15 @@ const NavBar = () => {
       id: 4,
       link: "experience",
     },
-    {
-      id: 5,
-      link: "contact",
-    },
   ];
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
       <div>
-        <h1 className="text-3xl ml-4">TamFolio</h1>
+        <h1 className="text-3xl pl-[30px] font-bold">TamFolio</h1>
       </div>
 
-      <ul className="hidden md:flex">
+      <ul className="hidden md:flex pr-[30px]">
         {links.map(({ id, link }) => (
           <li
             key={id}
