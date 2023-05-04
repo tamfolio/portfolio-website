@@ -10,13 +10,13 @@ const Home = () => {
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col items-center justify-center h-full">
-        <h2 className="text-4xl sm:text-7xl font-bold text-white mb-[30px]">
+        <h2 className="text-4xl sm:text-7xl font-bold text-white mb-[30px] text-center">
             My Name is Olaniyi Tamilore
           </h2>
-          <h2 className="text-3xl sm:text-5xl font-bold text-white">
+          <h2 className="text-2xl sm:text-4xl font-bold text-white text-center">
             I'm a Front-end Developer
           </h2>
-          <p className="text-gray-500 py-4 max-w-[600px] text-center">
+          <p className="text-gray-500 py-4 max-w-[600px] text-center text-[20px] px-[5px]">
             I have 3 years of experience building and desgining pixel perfect User interfaces
             Currently, I love to work on web application using technologies like
             React, Tailwind, Next JS and Redux.

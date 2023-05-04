@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-auto bg-gradient-to-b from-gray-800 to-black text-white py-[20px]"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl sm:mt-20">
         I am a software developer with 3 years Experience building user friendly Web applications and websites. My skills range from taking designs to development, ensuring that every component is pixel perfect and responsive across all devices, implementing complex functions, consuming data from api and working with databases
         </p>
 
