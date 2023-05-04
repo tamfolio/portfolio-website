@@ -22,6 +22,13 @@ const About = () => {
         <p className="text-xl">
           I am a very passionate and dedicated person, i enusre i put in my best in everything i do, i am a tem player, i have collaborated with team members both phyiscally and in remote situations. I understand user journey and user experience. my core strengths lie in my front end development.
         </p>
+
+        <br/>
+        <p className="text-xl">
+          if you are looking to contact me 
+          <br/> 
+          Email: tamiloreolaniyi@gmail.com
+        </p>
       </div>
     </div>
   );

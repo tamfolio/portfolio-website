@@ -31,12 +31,12 @@ const Portfolio = () => {
     {
       id: 5,
       src: trabaye,
-      link: 'https://www.mypennytree.com/'
+      link: 'https://trabayee.netlify.app/'
     },
     {
       id: 6,
       src: pennApp,
-      link: 'https://www.mypennytree.com/'
+      link: 'https://web.mypennytree.com/'
     },
   ];
 
@@ -64,9 +64,6 @@ const Portfolio = () => {
               <div className="flex items-center justify-center">
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   <a href={link}>Demo</a>
-                </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Code
                 </button>
               </div>
             </div>
